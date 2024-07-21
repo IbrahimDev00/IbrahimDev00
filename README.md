@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi there! I'm Ibrahim, a passionate web developer and college student diving deep into the world of technology. Currently, I'm juggling multiple exciting projects:<br><br>🏡 Real Estate Website: I'm actively involved in crafting an immersive digital experience for real estate enthusiasts, leveraging my expertise in web development to create seamless user interfaces and robust functionalities.<br>🎉 Club Website: Additionally, I'm spearheading the development of a dynamic website for my club, aiming to foster community engagement and streamline communication among members.<br>As a second-year college student, I'm driven by a relentless passion for technology, particularly in the realms of web development and artificial intelligence/machine learning. Here's a glimpse into my tech toolkit:<br><br>💻 Technologies: I'm well-versed in the MERN stack, Next.js, Python, C, Java, and JavaScript. My journey in tech is ever-evolving, and I'm eagerly looking forward to delving into Rust, eager to expand my skill set and tackle new challenges head-on.<br>When it comes to my approach to work and life, I embody a blend of creativity, results orientation, and leadership. I thrive on continuous learning, firmly believing that success is the product of both intellect and perseverance. With an unwavering dedication, I'm committed to pushing boundaries and achieving excellence in all that I pursue.<br><br>Let's connect and embark on a journey of innovation and growth together!
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="360" height="360" />
+
+# Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" height="40" />
+* Im a Computer Science student who is **Coding the Future, One Line at a Time** 🌠
+* Currently learning GoLang 💻
+* Working on an open-source project, and also building a cool side project in Go ⚒️
+* Fun Fact: Im also a State level Cricket player 🏏
 
 
 # 💻 Tech Stack:
